@@ -78,13 +78,28 @@ We organize practical learning, community projects, meetups, workshops, and real
 
 My role focuses on mentorship, technical guidance, project architecture, and building long-term career paths for aspiring developers through real projects and community collaboration.
 
-## 🧩 Author — wawjs framework
+## 🧩 Author — wawjs ecosystem
 
-[wawjs](https://wawjs.wiki) is a modular, MIT-licensed framework designed to simplify building scalable Node.js applications and developer tooling.
+[wawjs](https://wawjs.wiki) is a modular, MIT-licensed ecosystem of tools and packages designed to simplify building scalable Node.js and Angular applications.
 
-It focuses on clarity, convention, and real-world usability rather than abstraction for its own sake.
+It started as a backend framework, but grew into a wider development toolkit that supports real production projects across the Web Art Work and IT Space ecosystem.
 
-I use wawjs as both a production framework and a teaching tool, helping developers understand backend architecture, modular systems, reusable services, and maintainable codebases.
+The wawjs ecosystem includes:
+
+* Backend framework and application structure
+* Node.js modules for APIs, routing, CRUD, and services
+* Angular packages and reusable frontend utilities
+* Shared business logic patterns
+* CLI tools for project setup and automation
+* Helpers for faster full-stack development
+* Packages used across websites, CRM systems, portals, and internal tools
+
+You can find the npm organization here: [npmjs.com/org/wawjs](https://www.npmjs.com/org/wawjs)
+
+I use wawjs as both a production toolkit and a teaching foundation, helping developers understand backend architecture, Angular integration, modular systems, reusable packages, and maintainable codebases.
+
+The main goal of wawjs is to reduce repeated work, keep projects structured, and make it easier to build real digital products faster.
+
 
 ## 🌍 Languages
 
